@@ -1,0 +1,17 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "kagglehub>=0.3.12",
+    "numpy>=2.3.1",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.0",
+    "pillow>=11.2.1",
+    "plotly>=6.2.0",
+    "scikit-learn>=1.7.0",
+    "scipy>=1.16.0",
+    "streamlit>=1.46.1",
+    "tensorflow>=2.14.0",
+]
